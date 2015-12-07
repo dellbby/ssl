@@ -1,0 +1,10 @@
+YouTube Link: http://youtu.be/-ViGhXzsQRM
+
+Outline:
+- Quickly Go over Homepage
+- Sign up Demo
+- Quickly go over newuser.php overview
+- Go to index.html file - quickly go over file
+- Go to CSS file - quickly go over file
+- Go to newuser.php file - Go over file
+- Quickly go over includes and state that some boostrap was used
